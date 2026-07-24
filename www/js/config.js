@@ -8,7 +8,7 @@
     !h || h === 'localhost' || h === '127.0.0.1' || location.protocol === 'file:';
   window.API_BASE = isLocal
     ? 'http://localhost:5000'
-    : 'https://backend-rj0a.onrender.com';
+    : 'https://backend-1-u8xw.onrender.com';
   // Back-compat alias used by some older scripts.
   window.BACKEND_URL = window.API_BASE;
 

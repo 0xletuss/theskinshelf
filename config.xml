@@ -12,7 +12,7 @@
     <content src="index.html" />
     
     <!-- Allow backend -->
-    <access origin="https://backend-rj0a.onrender.com" />
+    <access origin="https://backend-1-u8xw.onrender.com" />
 
     <!-- Allow external links -->
     <allow-intent href="http://*/*" />
